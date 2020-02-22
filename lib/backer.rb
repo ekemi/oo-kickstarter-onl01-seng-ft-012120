@@ -19,10 +19,14 @@ class Backer
       
       @backed_projects << project 
       
+<<<<<<< HEAD
       project.backers << self
       
     end
     
     
+=======
+    end
+>>>>>>> 5777cd24dd8215ad947dc4bdb871525d7596640b
 
 end
